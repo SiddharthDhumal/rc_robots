@@ -137,7 +137,7 @@ Output:
  ![result for rc_robot inputs](https://github.com/user-attachments/assets/eccb5802-336e-41b0-92fd-49d787280df6)
 
 
-Notes
+Notes:
 The warehouse is represented as a grid where (0,0) is the bottom-left corner, and (maxX, maxY) is the upper-right corner.
 The robot's position is constrained within the warehouse grid, so it will not move outside the grid boundaries.
 The robot's heading is updated according to the commands it receives (left, right, or move forward).
