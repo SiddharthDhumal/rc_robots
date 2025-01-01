@@ -12,12 +12,17 @@ Java 17
 Spring Boot 3.4.1
 Spring Web
 Maven (for dependency management)
+
 Project Structure
+
 The project follows a simple layered architecture:
 
 Controller: Handles incoming HTTP requests and coordinates the processing.
+
 Service: Contains the business logic for robot movements and command processing.
+
 Model: Defines the structure of a Robot and its Direction as an enum.
+
 DTO (Data Transfer Object): Represents the data structure for input and output.
 
 **Endpoints**
